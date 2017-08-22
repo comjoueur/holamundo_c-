@@ -1,0 +1,3 @@
+/home/renatochavez/competitiva/hello-world/build/CMakeFiles/rebuild_cache.dir
+/home/renatochavez/competitiva/hello-world/build/CMakeFiles/edit_cache.dir
+/home/renatochavez/competitiva/hello-world/build/CMakeFiles/hello.dir
